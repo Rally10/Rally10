@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Rally10
+- 🌱 I’m currently learning git.
