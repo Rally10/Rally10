@@ -1,10 +1,30 @@
 {
   "usuario": [
-    { "id": 1, "nombre": "Ariel", "apellido": "Bravo" }
+    { 
+     "id": 1, 
+     "nombre": "Ariel", 
+     "apellido": "Bravo" 
+    },
+    
+    { 
+     "id": 2, 
+     "nombre": "Eric", 
+     "apellido": "Lopez" 
+    }    
 
   ],
   "perfil": [
-    { "id": 1, "funcion": "Desarrollador", "postId": 1 }
-
+    { 
+     "id": 1, 
+     "funcion": "Desarrollador", 
+     "postId": 1 
+    },
+    
+    { 
+      "id": 2, 
+     "funcion": "Front-End", 
+     "postId": 2
+    }
+    
   ]
 }
