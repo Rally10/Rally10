@@ -1,9 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
+  "usuario": [
+    { "id": 1, "nombre": "Ariel", "apellido": "Bravo" }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  "perfil": [
+    { "id": 1, "funcion": "Desarrollador", "postId": 1 }
+  ]
 }
